@@ -1,0 +1,1 @@
+deployed link https://mydnslabeld2c684.westeurope.cloudapp.azure.com/
